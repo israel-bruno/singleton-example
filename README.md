@@ -10,8 +10,9 @@ Foi escolhido o React para melhor visualização do funcionamento do Design Patt
 
 Para rodar o app basta clonar o repositório e rodar os seguintes comandos:
 
--> npm install
--> npm run dev
+1 - npm install
+2 - npm run dev
+3 - acessar localhost:8080 no navegador 
 
 ### Funcionamento
 
