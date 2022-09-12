@@ -1,4 +1,4 @@
-## Exemplo do padrão Singleton usando react.
+## Exemplo do padrão Singleton usando Typescript e React.
 
 O padrão Singleton garante que uma classe possua uma única instância e permita um ponto de acesso global à mesma.
 
